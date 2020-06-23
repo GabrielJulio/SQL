@@ -20,12 +20,12 @@
 ## Recomendação
 - Escreva os códigos __SQL__ em letras maiúsculas e as demais palavras (como tabelas, campos, etc) em minúsculo, para facilitar a leitura do seus comandos (esse é o padrão utilizado no mercado).
 <br/>Exemplo:
-```sql
-CREATE TABLE empresa(
-   emp_id       INT PRIMARY KEY NOT NULL,
-   emp_nome     TEXT    NOT NULL,
-   emp_idade    INT     NOT NULL,
-   emp_endereco CHAR(50),
-   emp_salario  REAL
-);
-```
+    ```sql
+    CREATE TABLE funcionario(
+    fun_id       INT PRIMARY KEY NOT NULL,
+    fun_nome     TEXT    NOT NULL,
+    fun_idade    INT     NOT NULL,
+    fun_endereco CHAR(50),
+    fun_salario  REAL
+    );
+    ```
