@@ -3,7 +3,7 @@
 ### DDL
 1. __DDL__ esse subgrupo contém 03 (três) comandos: <u>__CREATE__</u>, <u>__ALTER__</u> e <u>__DROP__</u>.
 
-    1. __CREATE__
+    * __CREATE__
         <br/>Usado para criar um banco de dados, tabela e outros objetos de um banco de dados.
 
         Exemplos:
@@ -15,7 +15,7 @@
             pro_descricao   VARCHAR(50)
         );
         ```
-    1. __ALTER__
+    * __ALTER__
         <br/>Usado para alterar a estrutura de tabela ou outro objeto de um banco de dados.
 
         Exemplos:
@@ -26,7 +26,7 @@
             peso DECIMAL(5,2);
         ```
 
-    1. __Drop__
+    * __Drop__
         <br/>Usado para apagar um banco de dados, tabela e outros objetos de um banco de dados.
 
         Exemplos:

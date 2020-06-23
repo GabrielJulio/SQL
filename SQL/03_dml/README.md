@@ -3,7 +3,7 @@
 ### DML
 1. __DML__ esse subgrupo contém 03 (três) comandos: <u>__INSERT__</u>, <u>__UPDATE__</u> e <u>__DELETE__</u>.
 
-    1. __INSERT__
+    * __INSERT__
         <br/> Usado para inserir dados em uma tabela.
 
         Exemplos:
@@ -19,7 +19,7 @@
         VALUES
             ('Phantom Intel', 2500, 1);
         ```
-    1. __UPDATE__
+    * __UPDATE__
         <br/> Usado para atualizar dados de um ou mais objetos em uma tabela.
 
         Exemplos:
@@ -35,7 +35,7 @@
             pro_codigo = 2;
         ```
 
-    1. __Delete__
+    * __Delete__
         <br/> Usado para apagar um ou mais objetos em uma tabela.
 
         Exemplos:
