@@ -38,4 +38,4 @@
 
 ### Anterior: [DCL - Data Control Language](https://github.com/GabrielJulio/bd/blob/master/SQL/05_dcl/README.md)
 
-### Próximo: _Em Breve_
+### Próximo: [Filtrando consultas com WHERE](https://github.com/GabrielJulio/bd/blob/master/SQL/07_filtrando/README.md)
