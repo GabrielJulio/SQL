@@ -3,13 +3,13 @@
 ### DTL
 1. __DTL__ esse subgrupo contém 03 (três) comandos: <u>__BEGIN__</u>, <u>__COMMIT__</u> e <u>__ROLLBACK__</u>.
 
-    *. __BEGIN__
+    * __BEGIN__
         <br/> Usado para marcar o começo de uma transação que pode ser completada ou não.
 
-    *. __COMMIT__
+    * __COMMIT__
         <br/> Usado para finalizar uma transação.
 
-    *. __ROLLBACK__
+    * __ROLLBACK__
         <br/> Usado para descartar mudanças nos dados realizadas desde último __COMMIT__, ou seja a transação atual não pode ter sido finalizada ainda.
 
     Exemplos:
