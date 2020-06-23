@@ -29,3 +29,5 @@
     fun_salario  REAL
     );
     ```
+
+### Próximo: [DQL - Data Query Language](https://github.com/GabrielJulio/bd/blob/master/SQL/02_dql/README.md)
