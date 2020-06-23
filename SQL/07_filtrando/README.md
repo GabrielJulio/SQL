@@ -1,7 +1,7 @@
 # Filtrando consultas com WHERE
 
 ### DQL
-1. __WHERE__
+* As vezes precisamos de registros com valores específicos
      
     Buscando pelo registro com codigo igual a 1.
     ```sql
@@ -60,4 +60,4 @@
 
 ### Anterior: [DTL - Data Transaction Language](https://github.com/GabrielJulio/bd/blob/master/SQL/06_dtl/README.md)
 
-### Próximo: _Em Breve_
+### Próximo: [Consultas em múltiplas tabelas](https://github.com/GabrielJulio/bd/blob/master/SQL/08_multiplas_tabelas/README.md)
