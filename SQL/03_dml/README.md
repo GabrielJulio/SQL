@@ -1,9 +1,10 @@
 # DML - Data Manipulation Language
 
 ### DML
-1. __DML__ esse subgrupo é com 03 (três) comandos: <u>__INSERT__</u>, <u>__UPDATE__</u> e <u>__DELETE__</u>.
+1. __DML__ esse subgrupo contém 03 (três) comandos: <u>__INSERT__</u>, <u>__UPDATE__</u> e <u>__DELETE__</u>.
 
     1. __INSERT__
+        <br/> Usado para inserir dados em uma tabela.
 
         Exemplos:
         ```sql
@@ -19,6 +20,7 @@
             ('Phantom Intel', 2500, 1);
         ```
     1. __UPDATE__
+        <br/> Usado para atualizar dados de um ou mais objetos em uma tabela.
 
         Exemplos:
         ```sql
@@ -34,6 +36,7 @@
         ```
 
     1. __Delete__
+        <br/> Usado para apagar um ou mais objetos em uma tabela.
 
         Exemplos:
         ```sql
@@ -49,7 +52,7 @@
 ```sql
     UPDATE
         produto SET preco = 10;
-        
+
     DELETE FROM
         produto;
 ```
