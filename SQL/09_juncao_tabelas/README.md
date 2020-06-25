@@ -59,6 +59,8 @@
     estranho de visualizar assim não?
     vamos organizar um pouco */
 
+    -------------------------------------------------------------------
+
     SELECT
         cli.id, cli.nome, cli.data_nascimento, cli.telefone, pro.cargo
     FROM
@@ -124,6 +126,8 @@
         ON clientes.id_profissao = profissao.id;
         -- Sensacional, não é mesmo?
 
+        -------------------------------------------------------------------
+
         /* O  MySQL não da suporte a essa função, nele você pode obter
         resultado similar juntando o LEFT com o RIGHT */
         SELECT *
@@ -168,6 +172,8 @@
     VALUES ('Luana Ferreira', 'Arthur Martins', 'Quadra QR 511 Conjunto 02 1996', 'Samambaia', '72313-702', 'Brasil');
     INSERT INTO consumidores (nome, contato, endereco, cidade, cep, pais)
     VALUES ('Frances Thomas', 'Kenneth Boswell', '2249 Glory Road', 'Nashville', '37201', 'Estados Unidos');
+
+    -------------------------------------------------------------------
 
     SELECT
         conA.nome AS 'Consumidor 1', conB.nome AS 'Consumidor 2',

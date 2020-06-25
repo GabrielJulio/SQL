@@ -10,6 +10,8 @@
         ```sql
         CREATE DATABASE financeiro;
 
+        -------------------------------------------------------------------
+
         CREATE TABLE produto(
             pro_codigo      INT PRIMARY KEY,
             pro_descricao   VARCHAR(50)
@@ -32,6 +34,8 @@
         Exemplos:
         ```sql
         DROP DATABASE financeiro;
+
+        -------------------------------------------------------------------
 
         DROP TABLE produto;
         ```

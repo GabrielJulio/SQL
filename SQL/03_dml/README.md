@@ -14,6 +14,8 @@
         campo chamado "tp_codigo", por ele ser chave primária e
         auto incremento logo será incremntado automaticamente. */
 
+        -------------------------------------------------------------------
+
         INSERT INTO
             produto (pro_descricao, pro_preco, tp_codigo)
         VALUES
@@ -28,6 +30,8 @@
             tipo_produto SET tp_descricao = 'Nobreak'
         WHERE
             tp_codigo = 2;
+
+        -------------------------------------------------------------------
 
         UPDATE
             produto SET pro_descricao = 'Notebook', pro_preco = 2900

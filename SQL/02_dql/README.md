@@ -7,6 +7,8 @@
     ```sql
     SELECT * FROM empresa;
 
+    -------------------------------------------------------------------
+
     SELECT emp_id, emp_nome FROM empresa;
     ```
 1. Também pode ser aplicado um __alias__ para o nome do campo ou nome da tabela.
@@ -14,6 +16,8 @@
     Exemplos:
     ```sql
     SELECT emp_nome AS empresa, emp.endereco AS 'endereço', fun_nome AS nome, fun_salario AS salario FROM funcionario;
+
+    -------------------------------------------------------------------
 
     SELECT fun.emp_nome, emp.endereco, fun.fun_nome, fun.fun_salario FROM empresa AS emp, funcionario AS fun;
     ```

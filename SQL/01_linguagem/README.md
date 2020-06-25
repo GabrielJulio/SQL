@@ -20,6 +20,7 @@
 ## Recomendação
 - Escreva os códigos __SQL__ em letras maiúsculas e as demais palavras (como tabelas, campos, etc) em minúsculo, para facilitar a leitura do seus comandos (esse é o padrão utilizado no mercado).
 <br/>Exemplo:
+
     ```sql
     CREATE TABLE funcionario(
     fun_id       INT PRIMARY KEY NOT NULL,

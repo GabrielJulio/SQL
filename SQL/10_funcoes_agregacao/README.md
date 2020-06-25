@@ -12,9 +12,13 @@
     ```sql
     SELECT MAX(preco_venda) FROM produtos;
 
+    -------------------------------------------------------------------
+
     SELECT id_categoria, MAX(preco_venda)
     FROM produtos
     GROUP BY id_categoria;
+
+    -------------------------------------------------------------------
 
     SELECT id_categoria, MAX(preco_venda)
     FROM produtos

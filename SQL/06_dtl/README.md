@@ -18,7 +18,6 @@
         pro_codigo      INT PRIMARY KEY,
         pro_descricao   VARCHAR(50));
 
-
     BEGIN TRANSACTION; -- inicia a transação
         INSERT INTO
             produto
@@ -27,6 +26,8 @@
             produto
         VALUES ('Casas Bahia PC');
     COMMIT; -- termina a transação e grava os dados
+
+    -------------------------------------------------------------------
 
     BEGIN TRANSACTION; -- inicia a transação
         INSERT INTO
