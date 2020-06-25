@@ -198,4 +198,4 @@
 
 ### Anterior: [Consultas em múltiplas tabelas](https://github.com/GabrielJulio/bd/blob/master/SQL/08_multiplas_tabelas/README.md)
 
-### Próximo: _Em Breve_
+### Próximo: [Funções de Agregação](https://github.com/GabrielJulio/bd/blob/master/SQL/10_funcoes_agregacao/README.md)
