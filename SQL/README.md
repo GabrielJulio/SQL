@@ -8,7 +8,7 @@
 1. [DTL - Data Transaction Language](https://github.com/GabrielJulio/bd/blob/master/SQL/06_dtl/README.md)
 1. [Filtrando consultas com WHERE](https://github.com/GabrielJulio/bd/blob/master/SQL/07_filtrando/README.md)
 1. [Consultas em múltiplas tabelas](https://github.com/GabrielJulio/bd/blob/master/SQL/08_multiplas_tabelas/README.md)
-1. Junção de tabelas - _Em Breve_
+1. [Junção de tabelas](https://github.com/GabrielJulio/bd/blob/master/SQL/09_juncao_tabelas/README.md)
 1. Funções de Agregação - _Em Breve_
 1. Agrupamento e Ordenação - _Em Breve_
 1. Funções de Data e Hora - _Em Breve_

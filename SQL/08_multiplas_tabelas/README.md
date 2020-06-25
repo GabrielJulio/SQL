@@ -26,4 +26,4 @@
     
 ### Anterior: [Filtrando consultas com WHERE](https://github.com/GabrielJulio/bd/blob/master/SQL/07_filtrando/README.md)
 
-### Próximo: _Em Breve_
+### Próximo: [Junção de tabelas](https://github.com/GabrielJulio/bd/blob/master/SQL/09_juncao_tabelas/README.md)
