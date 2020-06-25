@@ -224,4 +224,4 @@
 
 ### Anterior: [Agrupamento e Ordenação](https://github.com/GabrielJulio/bd/blob/master/SQL/11_agrupamento_ordenacao/README.md)
 
-### [Sub Consultas](https://github.com/GabrielJulio/bd/blob/master/SQL/13_sub_consultas/README.md)
+### Próximo: [Sub Consultas](https://github.com/GabrielJulio/bd/blob/master/SQL/13_sub_consultas/README.md)
